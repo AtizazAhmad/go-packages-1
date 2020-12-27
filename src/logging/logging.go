@@ -3,6 +3,7 @@ package logging
 import (
    "fmt"
     "time"
+    "runtime"
 )
 
 var debug bool
